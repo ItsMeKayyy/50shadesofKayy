@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My PDF Gallery</title>
+</head>
+<body>
+    <h1>Welcome to My PDF Gallery</h1>
+    <p>
+        <a href="https://drive.google.com/file/d/1xKluBoXZ48hX2DNBwZh_WMqVlzZmXcOu/view?pli=1" target="_blank">
+            Gallery PDF
+        </a>
+    </p>
+</body>
+</html>
